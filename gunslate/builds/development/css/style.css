@@ -1,0 +1,13 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300);
+body{width:1000px;}
+h1{font: small-caps 300 2em/1.5em 'Open Sans', sans-serif; text-align: center;margin: 20px auto 0;padding: 0;}
+.land{ fill: #ccc; }
+.border-states{
+	stroke: #fff;
+	fill: none;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+}
+.states{fill: #c0cf92;}
+.bubble{fill:blue; fill-opacity: .5;}
+.hover{stroke:#666; fill-opacity: .8;}
